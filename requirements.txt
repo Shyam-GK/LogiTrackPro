@@ -1,5 +1,5 @@
-Python
 streamlit==1.26.0
 pandas==2.0.3
 plotly==5.15.0
 openpyxl==3.1.2
+pillow==9.5.0
